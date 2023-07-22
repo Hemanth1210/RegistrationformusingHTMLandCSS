@@ -1,0 +1,18 @@
+.registrationform{
+    border: 2px solid black;
+    height: 540px;
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 500px;
+    background-color: blanchedalmond;
+}
+body{
+    background-image: url("https://thumbs.dreamstime.com/b/green-surreal-mountains-against-backdrop-turquoise-sky-fantastic-fairytale-mountain-landscape-196612965.jpg ");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}    
+
+    
+   
